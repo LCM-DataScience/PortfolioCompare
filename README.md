@@ -3,7 +3,7 @@
 Ações de Tecnologia - O desempenho impressionante da NVIDIA
 
 
-A @nvidia tem se destacado de maneira significativa no mercado de ações, e essa análise mostra sua impressionante trajetória. Foi comparado seu desempenho com outras grandes empresas do setor de tecnologia:
+A NVIDIA tem se destacado de maneira significativa no mercado de ações, e essa análise mostra sua impressionante trajetória. Foi comparado seu desempenho com outras grandes empresas do setor de tecnologia:
 
 
 Advanced Micro Devices (AMD), Intel (INTC), Qualcomm (QCOM) e Texas Instruments (TXN). Elas são líderes no setor de semicondutores e tecnologia. Fabricam processadores, chips gráficos e outros componentes eletrônicos, para uma ampla gama de dispositivos.
